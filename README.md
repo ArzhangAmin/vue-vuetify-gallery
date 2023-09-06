@@ -1,4 +1,4 @@
-# pomo
+# vue-vuetify-gallery
 
 ## Project setup
 ```
